@@ -1,3 +1,1 @@
-not done yet
-pieces can move, cant take
-chess logic not started
+not done yet. pieces can move, cant take. chess logic not started
