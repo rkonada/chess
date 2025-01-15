@@ -1,1 +1,1 @@
-not done yet. pieces can move, cant take. chess logic not started
+Project not completed yet. Pieces can move correctly but cannot capture. 
